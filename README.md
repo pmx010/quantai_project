@@ -1,4 +1,8 @@
-# Quant AI Project Package
+<img width="1555" height="892" alt="image" src="https://github.com/user-attachments/assets/5ae0888c-52ff-4c46-b8ee-b141abb37ed0" />
+
+
+
+# QuantAI Project
 
 Core implementation of the Quant AI autonomous trading system with 5 specialized AI agents for trading. Built with SpoonOS framework.
 
